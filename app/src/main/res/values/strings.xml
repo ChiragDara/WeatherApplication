@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Open Weather App</string>
+    <string name="unit">unit</string>
+    <string name="metric">metric</string>
+    <string name="imperial">imperial</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="weather">weather</string>
+    <string name="locale">locale</string>
+    <string name="weatherData">weatherData</string>
+</resources>
